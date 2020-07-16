@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.genruntimeconfig.cache
+C:\Users\Student\workspace\week-4-pair-exercises-c-team-8\week-4-pair-exercises-c-team-8\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Logger.cs

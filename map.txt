@@ -1,0 +1,32 @@
+
+VendingMachine - Nathan et al
+    > MoneyTill
+    > Inventory
+    > Panel
+    > Logger
+
+MoneyTill - Nathan
+
+Inventory - Dylan
+
+Panel - Dylan
+    > Display Vending Machine Items
+    > Purchase
+        > Select Product
+        > Feed Money
+        > Finish Transaction
+        > (Hidden) Sales Report
+    > Exit
+
+Logger - Justin
+
+IVendable Nathan
+    > Name
+    > Price
+    > SKU
+    > Purchase "Crunch crunch"
+
+IVendable < Chip
+IVendable < Candy
+IVendable < Drink
+IVendable < Gum
